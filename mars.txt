@@ -5,3 +5,6 @@ and become rusty.
 
 I need to practice this more and more and now I am using nano in the bash terminal
 and it is great!
+
+It's time to do some more editing! Specifically, the two moons may be a problem for 
+Wolfman.
