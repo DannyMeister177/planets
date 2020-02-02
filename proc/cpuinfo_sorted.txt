@@ -1,0 +1,17 @@
+
+Model:	M1
+Model:	M1.21
+Model:	M10
+Model:	M101
+Model:	M2.01
+Model:	M2.021
+Name:	Comp1
+Name:	Comp2
+Name:	Comp3
+Name:	Comp4
+Name:	Comp5
+Series:	2
+Series:	5
+Series:	50
+Series:	52
+Series:	6
